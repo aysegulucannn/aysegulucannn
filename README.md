@@ -1,7 +1,6 @@
-# Merhaba! 👋
+# Merhaba! 
 
-Bilişim Güvenliği öğrencisiyim. Siber güvenlik, ağ sistemleri ve Linux üzerine kendimi geliştirmeye çalışıyorum. 
+Siber güvenlik, ağ sistemleri ve Linux üzerine çalışmalar yapıyorum. 
 
-Zamanla  öğrendiklerimi ve hazırladığım projeleri burada paylaşacağım.
-
+Zamanla öğrendiklerimi ve hazırladığım projeleri burada paylaşacağım.
 
